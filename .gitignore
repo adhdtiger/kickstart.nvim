@@ -4,4 +4,4 @@ test.sh
 nvim
 
 spell/
-.vscode/settings.json
+.vscode
